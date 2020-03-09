@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": "deploy",
+    "appService.defaultWebAppToDeploy": "/subscriptions/013a4c29-aba2-4022-b6ce-51f1025188bd/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/devfolio"
+}
